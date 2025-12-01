@@ -21,4 +21,12 @@
 (13)	git merge RamaA		     fast-forward y sin conflictos
 (14)	git merge --no-ff RamaB	     recursivoa y con conflictos en bitacora.txt y direccion.txt
 (15)	git add . + git commit -m "Paso 15"
+(16)	git branch RamaC
+(17)	git checkout RamaC
+(18)	editar archivo direccion.txt
+(19)	git branch RamaD orgin/RamaD
+(20)	editar y crear archivo calificacion.txt
+(21)	git add calificacion.txt + git commit -m "Paso 21"
+(22)	git checkout RamaC
+(23)	git add . + git commit "Paso 23"
 
