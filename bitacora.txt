@@ -9,3 +9,6 @@
 (01)	git clone https://github.com/latacita/testGit2025NecoVelategui.git
 (02)	------
 (03)	git add . + git commit -m "Paso 03"
+(09)	git checkout RamaB
+(10)	editar archivo direccion.txt
+(11)	git add . + git commit -m "Paso 11"
