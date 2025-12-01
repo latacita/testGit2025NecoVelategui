@@ -14,3 +14,11 @@
 (06)	git checkout RamaA
 (07)	editar archivo direccion.txt
 (08)	git add . + git commit -m "Paso 08"
+(09)	git checkout RamaB
+(10)	editar archivo direccion.txt
+(11)	git add . + git commit -m "Paso 11"
+(12)	git checkout master
+(13)	git merge RamaA		     fast-forward y sin conflictos
+(14)	git merge --no-ff RamaB	     recursivoa y con conflictos en bitacora.txt y direccion.txt
+(15)	git add . + git commit -m "Paso 15"
+

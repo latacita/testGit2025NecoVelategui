@@ -1,6 +1,6 @@
 Centro: Facultad de Ciencias
 Calle: Avenida de los Castros
-Número: 25
+Número: 19
 CP: 39300
-Ciudad: Cantabria
-Provincia: Santander
+Ciudad: Santander
+Provincia: Cantabria
