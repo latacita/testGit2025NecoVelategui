@@ -29,4 +29,11 @@
 (21)	git add calificacion.txt + git commit -m "Paso 21"
 (22)	git checkout RamaC
 (23)	git add . + git commit "Paso 23"
+(24)	git checkout master
+(25)	fast-forward
+(26)	git merge RamaD
+(27)	git merge RamaC
+(28)	git tag Conseguido
+(29)	git add . + git commit -m "Paso 29"	Cuando he ido hacer el ultimo commit para hacer el push, no he guardado el archivo bitacora.txt por lo que no se me ha subido correctamente.
+						Vuelvo hacer un git add . + git commit -m "Paso Extra"
 
